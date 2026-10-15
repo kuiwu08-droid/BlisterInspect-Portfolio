@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-15",
+  "native_save_version": "2.5.10",
+  "native_save_reopen_verified": true,
+  "matched_items": 83,
+  "ok_items": 39,
+  "ng_items": 44,
+  "timeout_items": 1,
+  "trials": [
+    {
+      "trial": "trial-30-outlet-aligned-four-ng",
+      "matched": 4,
+      "ok": 0,
+      "ng": 4,
+      "timeout": 0
+    },
+    {
+      "trial": "trial-31-outlet-aligned-mixed-twenty",
+      "matched": 20,
+      "ok": 10,
+      "ng": 10,
+      "timeout": 0
+    },
+    {
+      "trial": "trial-32-outlet-aligned-timeout-five",
+      "matched": 5,
+      "ok": 2,
+      "ng": 3,
+      "timeout": 1
+    },
+    {
+      "trial": "trial-33-outlet-saved-reopen-four",
+      "matched": 4,
+      "ok": 2,
+      "ng": 2,
+      "timeout": 0
+    },
+    {
+      "trial": "trial-34-outlet-plc-feed-fifty",
+      "matched": 50,
+      "ok": 25,
+      "ng": 25,
+      "timeout": 0,
+      "extra_serial_outlet_gate": false
+    }
+  ]
+}
